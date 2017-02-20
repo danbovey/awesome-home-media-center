@@ -13,6 +13,10 @@
 - [Plex](https://www.plex.tv/) - Media server with a full-featured library management and media player with a visually appealing user interface.
 - [Kodi](https://kodi.tv/) - Open source media player and entertainment center with "skinnable" interface.
 - [Emby](https://emby.media/) - Media aggregator plugin that takes your media and presents it in a simple, easy to use interface.
+
+## Plex Tools
+
+- [PlexPy](https://github.com/JonnyWong16/plexpy) - A web app for monitoring, analytics, and notifications for Plex Media Server.
   
 ## Personal Video Recorders
 
