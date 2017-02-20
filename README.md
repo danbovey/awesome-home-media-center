@@ -17,6 +17,7 @@
 ## Plex Tools
 
 - [PlexPy](https://github.com/JonnyWong16/plexpy) - A web app for monitoring, analytics, and notifications for Plex Media Server.
+- [Plex Trakt Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to Trakt.tv
   
 ## Personal Video Recorders
 
