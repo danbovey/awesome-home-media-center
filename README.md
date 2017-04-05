@@ -37,6 +37,9 @@
 - [SeriesGuide for Android](https://seriesgui.de/) - Free Trakt.tv client for Android.
 - [SERIST](http://seristapp.com/) - Paid Trakt.tv client for Android and iOS.
   
+## Other
+- [Ombi](https://github.com/tidusjar/Ombi) - Ombi allows you to host your own Plex Request and user management system.  If you are sharing your Plex server with other users, allow them to request new content using an easy to manage interface!  Manage all your requests for Movies and TV with ease, leave notes for the user and get notification when a user requests something.  Allow your users to post issues against their requests so you know there is a problem with the audio etc.  Even automatically send them weekly newsletters of new content that has been added to your Plex server! www.ombi.io
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
