@@ -3,10 +3,16 @@
 
 ## Contents
 
+- [Tutorials](#tutorials)
 - [Media Servers](#media-servers)
 - [Personal Video Recorders](#personal-video-recorders)
 - [TV Trackers](#tv-trackers)
 - [Trakt Apps](#trakt-apps)
+- [Other](#other)
+
+## Tutorials
+
+- [Installing and setting up Plex Media Server, Sonarr and others on Ubuntu Server](https://thisisforsomething.com/guide/guide-to-plex-media-server-on-ubuntu-server-16-04/)
 
 ## Media Servers
 
