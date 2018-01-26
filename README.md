@@ -4,6 +4,7 @@
 ## Contents
 
 - [Tutorials](#tutorials)
+- [Community](#community)
 - [Media Servers](#media-servers)
 - [Personal Video Recorders](#personal-video-recorders)
 - [TV Trackers](#tv-trackers)
@@ -13,6 +14,14 @@
 ## Tutorials
 
 - [Installing and setting up Plex Media Server, Sonarr and others on Ubuntu Server](https://thisisforsomething.com/guide/guide-to-plex-media-server-on-ubuntu-server-16-04/)
+
+## Community
+
+- [/r/PleX](https://www.reddit.com/r/PleX/)
+- [r/kodi](https://www.reddit.com/r/kodi/)
+- [Plex on Discord](https://discord.gg/plex#link_discord)
+- [Binge Watchers on YouTube](https://www.youtube.com/user/HarnikTalks) - A YouTube Channel that discusses and reviews the latest shows.
+- [Binge Watchers on Discord](https://discord.gg/GqqefNy) - Discussion with other viewers of Binge Watchers
 
 ## Media Servers
 
