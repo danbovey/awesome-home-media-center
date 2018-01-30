@@ -42,7 +42,7 @@
 ## TV Trackers
 
 - [Trakt.tv](https://trakt.tv) - Keeps a record of what TV shows and movies you are watching, by scrobbling from Plex, Kodi or Emby.
-- [TVShow Time](https://www.tvshowtime.com) - Tracks and notifies you of your TV shows with a simple approach to "on deck" shows and upcoming.
+- [TV Time](https://www.tvtime.com) - Tracks and notifies you of your TV shows with a simple approach to "on deck" shows and upcoming (Previously known as TVShow Time).
 
 ## Trakt Apps
 
