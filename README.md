@@ -9,7 +9,6 @@
 - [Personal Video Recorders](#personal-video-recorders)
 - [TV Trackers](#tv-trackers)
 - [Trakt Apps](#trakt-apps)
-- [Other](#other)
 
 ## Tutorials
 
@@ -17,11 +16,11 @@
 
 ## Community
 
-- [/r/PleX](https://www.reddit.com/r/PleX/)
-- [r/kodi](https://www.reddit.com/r/kodi/)
-- [Plex on Discord](https://discord.gg/plex#link_discord)
+- [/r/PleX](https://www.reddit.com/r/PleX/) - The Plex subreddit.
+- [r/kodi](https://www.reddit.com/r/kodi/) - The Kodi subreddit.
+- [Plex on Discord](https://discord.gg/plex#link_discord) - Discord server of Plex users and home media center enthusiasts.
 - [Binge Watchers on YouTube](https://www.youtube.com/user/HarnikTalks) - A YouTube Channel that discusses and reviews the latest shows.
-- [Binge Watchers on Discord](https://discord.gg/GqqefNy) - Discussion with other viewers of Binge Watchers
+- [Binge Watchers on Discord](https://discord.gg/GqqefNy) - Discussion with other viewers of Binge Watchers.
 
 ## Media Servers
 
@@ -32,7 +31,8 @@
 ## Plex Tools
 
 - [PlexPy](https://github.com/JonnyWong16/plexpy) - A web app for monitoring, analytics, and notifications for Plex Media Server.
-- [Plex Trakt Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to Trakt.tv
+- [Plex Trakt Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to Trakt.tv.
+- [Ombi](https://github.com/tidusjar/Ombi) - Ombi allows you to host your own Plex Request and user management system.  If you are sharing your Plex server with other users, Ombi allows them to request that new content be added via an easy user interface.
   
 ## Personal Video Recorders
 
@@ -51,12 +51,9 @@
 - [Traktflix](https://tegon.github.io/traktflix/) - Chrome extension that syncs your Netflix history with Trakt.
 - [SeriesGuide for Android](https://seriesgui.de/) - Free Trakt.tv client for Android.
 - [SERIST](http://seristapp.com/) - Paid Trakt.tv client for Android and iOS.
-  
-## Other
-- [Ombi](https://github.com/tidusjar/Ombi) - Ombi allows you to host your own Plex Request and user management system.  If you are sharing your Plex server with other users, allow them to request new content using an easy to manage interface!  Manage all your requests for Movies and TV with ease, leave notes for the user and get notification when a user requests something.  Allow your users to post issues against their requests so you know there is a problem with the audio etc.  Even automatically send them weekly newsletters of new content that has been added to your Plex server! www.ombi.io
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Dan Bovey](https://github.com/danbovey) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
