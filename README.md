@@ -30,10 +30,11 @@
 
 ## Plex Tools
 
-- [PlexPy](https://github.com/JonnyWong16/plexpy) - A web app for monitoring, analytics, and notifications for Plex Media Server.
+- [Tautulli](https://tautulli.com/) - A web app for monitoring, analytics, and notifications for Plex Media Server.
 - [Plex Trakt Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to Trakt.tv.
 - [Ombi](https://github.com/tidusjar/Ombi) - Ombi allows you to host your own Plex Request and user management system.  If you are sharing your Plex server with other users, Ombi allows them to request that new content be added via an easy user interface.
 - [Organizr](https://organizr.app) - Create a landing page for your server. Configure tabs for web-based services running on your server and share with other users.
+  
   
 ## Personal Video Recorders
 
