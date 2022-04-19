@@ -30,10 +30,11 @@
 
 ## Plex Tools
 
-- [PlexPy](https://github.com/JonnyWong16/plexpy) - A web app for monitoring, analytics, and notifications for Plex Media Server.
+- [Tautulli](https://tautulli.com/) - A web app for monitoring, analytics, and notifications for Plex Media Server.
 - [Plex Trakt Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to Trakt.tv.
 - [Ombi](https://github.com/tidusjar/Ombi) - Ombi allows you to host your own Plex Request and user management system.  If you are sharing your Plex server with other users, Ombi allows them to request that new content be added via an easy user interface.
 - [Organizr](https://organizr.app) - Create a landing page for your server. Configure tabs for web-based services running on your server and share with other users.
+  
   
 ## Personal Video Recorders
 
@@ -44,6 +45,10 @@
 
 - [Trakt.tv](https://trakt.tv) - Keeps a record of what TV shows and movies you are watching, by scrobbling from Plex, Kodi or Emby.
 - [TV Time](https://www.tvtime.com) - Tracks and notifies you of your TV shows with a simple approach to "on deck" shows and upcoming (Previously known as TVShow Time).
+
+## Movie Trackers
+- [Trakt.tv](https://trakt.tv) - Keeps a record of what TV shows and movies you are watching, by scrobbling from Plex, Kodi or Emby.
+- [Letterboxd](https://Letterboxd.com) - Manually enter movies you have watched. 
 
 ## Trakt Apps
 
