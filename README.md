@@ -46,6 +46,10 @@
 - [Trakt.tv](https://trakt.tv) - Keeps a record of what TV shows and movies you are watching, by scrobbling from Plex, Kodi or Emby.
 - [TV Time](https://www.tvtime.com) - Tracks and notifies you of your TV shows with a simple approach to "on deck" shows and upcoming (Previously known as TVShow Time).
 
+## Movie Trackers
+- [Trakt.tv](https://trakt.tv) - Keeps a record of what TV shows and movies you are watching, by scrobbling from Plex, Kodi or Emby.
+- [Letterboxd](https://Letterboxd.com) - Manually enter movies you have watched. 
+
 ## Trakt Apps
 
 - [Plex Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Synchronizes watched history, ratings, playback progress and lists on Plex to your Trakt.tv profile.
